@@ -1,0 +1,44 @@
+body{
+	background-color: #efefef;
+	font-family: arial;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	
+
+}
+.Article{
+	line-height: 20px;
+	width: 900px;
+	margin:0 auto;
+	min-height: 600px;
+	background-color: #ffffff;
+	padding: 70px;
+	font-size:16px;
+	text-align: 6px;
+
+
+}
+.h1{
+   text-decoration: uppercase;
+   background-color: black;
+	height: 50px;
+	padding-bottom: 20px;
+}
+.img1{
+	padding-right: 30px;
+	float: right;
+
+}
+.img2{
+	padding-left: 30px;
+}
+.img3{
+	padding-right:30px;
+	float: right; 
+}
+.img4{
+	padding-left: 30px;
+}
+
